@@ -1,0 +1,4 @@
+name: ChunkDeleter
+version: '${project.version}'
+main: org.spectrum.chunkdeleter.ChunkDeleter
+api-version: '1.20'
